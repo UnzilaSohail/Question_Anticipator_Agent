@@ -21,6 +21,7 @@ A smart backend system that predicts academic exam questions based on syllabus, 
 ## **Tech Stack**
 
 * **Backend:** Python 3.11+, FastAPI
+* **Frontend:** React
 * **LLM Providers:** Gemini (default), OpenAI, Anthropic, Grok
 * **Memory & Embeddings:** ChromaDB + SentenceTransformers
 * **Orchestration:** LangGraph
