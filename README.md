@@ -155,7 +155,8 @@ http://0.0.0.0:8000
 
 ```
 .
-├── langraph_main.py        # Main backend
+├── question_anticipator.py        # Main backend
+├── question_anticipator/     # Frontend
 ├── requirements.txt        # Python dependencies
 ├── tests/                  # Pytest test cases
 ├── chroma_db/              # Vector memory storage (ChromaDB)
